@@ -6,6 +6,7 @@
 
 ## Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidhu-985&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidhu-985&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="195" alt="languages graph"  />
 
 ## Connect to me via
 # 🌐 Socials:
